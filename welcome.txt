@@ -2,9 +2,9 @@ I am Krishna
 I am from Thiruvananthapuram
 I like coding
 I am developer2
-I am from Bengaluru
+I am from Pune
 I like sports
 I am developer1
-I am from Thiruvananthapuram
+I am from New Delhi
 I like movies
 
